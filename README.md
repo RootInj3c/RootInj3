@@ -1,6 +1,6 @@
 # 👋 Howdy! Welcome to my GitHub!
 
-**Hi! I'm Maor — Security Researcher & Offensive Security Enthusiast**
+**Hi! I'm Maor - Security Researcher & Offensive Security Enthusiast**
 
 I'm passionate about building and refining offensive security capabilities, with over 11 years of hands-on experience. With a background in development and DevOps, I’ve developed custom exploitation tools, created stealthy projects for real-world red team engagements, and currently focus on security research in adversarial AI projects.
 
