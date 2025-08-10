@@ -16,4 +16,4 @@ I specialize in:
 An MCP-powered assistant for red teamers, helping analyze Windows binaries for OPSEC risks, suspicious APIs, section anomalies, IAT hiding, export table red flags, and more — **directly inside your IDE**.
 
 ## 📫 Let's Connect
-- 💼 [[LinkedIn](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/maor-tal-06a7ba2a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/maor-tal-06a7ba2a/)
