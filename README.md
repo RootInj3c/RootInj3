@@ -14,6 +14,7 @@ I specialize in:
 ❤️ Hopefully you will enjoy and benefit from my projects — feel free to reach out @[LinkedIn](https://www.linkedin.com/in/maor-tal-06a7ba2a/) to discuss them or exchange new ideas! 
 
 See you inside!
+
 M.
   
 ## 🚀 Featured Project
