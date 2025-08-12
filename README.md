@@ -11,7 +11,7 @@ My interests:
 - Evasion techniques across the entire red team kill chain
 - Cloud (in)security assessments for AWS, Azure, and GCP
 
-❤️ Hopefully you will enjoy and benefit from my projects — feel free to reach out @[LinkedIn](https://www.linkedin.com/in/maor-tal-06a7ba2a/) to discuss them or exchange new ideas! 
+❤️ Hopefully you will enjoy and benefit from my projects - feel free to reach out @[LinkedIn](https://www.linkedin.com/in/maor-tal-06a7ba2a/) to discuss them or exchange new ideas! 
 
 See you inside!
 
