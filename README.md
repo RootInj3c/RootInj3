@@ -19,5 +19,5 @@ M.
   
 ## 🚀 Featured Project
 
-### [MalDev Analyzer MCP](https://github.com/RootInj3/MalDev-Analyzer-MCP)
+### [MalDev Analyzer MCP](https://github.com/RootInj3c/MalDev-Analyzer-MCP)
 An MCP-powered assistant for red teamers, helping analyze Windows binaries for OPSEC risks, suspicious APIs, section anomalies, IAT hiding, export table red flags, and more **directly inside your IDE**.
